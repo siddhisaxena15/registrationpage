@@ -1,1 +1,1 @@
-# test
+# This is my registration page
